@@ -1,0 +1,662 @@
+/*navbar*/
+
+@media (max-width:980px){
+    .logoframe .logo h1{
+      font-size: 1.8em;
+      }
+
+      .input{
+        height: 30px;
+        width: 400px;
+        padding: 10px;
+      
+    }
+    .navbar{
+        padding: 0 20px;
+        height: 80px;
+        width: 100%;
+    }
+/*main*/
+        .start-main .left h1{
+            font-size: 3em;
+            font-weight: 500;
+         
+        }
+        #our-foods{
+           
+            margin-top: 35px;
+          
+         
+            font-size: 2.5EM;
+            font-weight: 600;
+        }
+        
+        #our-foods span{
+            margin-left: 12px;
+            color: rgb(255,100,0) ;
+        }
+        .start-main .left p{
+            width: 400px;
+            font-size: 1em;
+            font-weight: 600;
+            line-height: 1.5;
+            opacity:0.8;
+            margin-top: 13px;
+        }
+        .start-main .right img{
+            width: 70%;
+            margin: 0 10px;
+            min-width: 250px;
+           
+        }
+        .start-main .left button{
+            padding: 10px 15px;
+            font-size: 1.3em;
+            font-weight: 600;
+            ;
+        }
+        
+        .start-main {
+           
+            padding: 40px 50px;
+        }
+        
+    
+    
+    
+   
+
+@media (max-width:740px){
+    .logoframe .logo h1{
+      font-size: 1.5em;
+      }
+
+      .input{
+        height: 30px;
+        width: 300px;
+        padding: 8px;
+      
+    }
+    .navbar{
+        padding: 0 15px;
+        height: 70px;
+        width: 100%;
+    }
+    .hree-icon-frame i{
+        margin-left: 12px ;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .hree-icon-frame i:hover{
+        font-size: 21px;
+    }
+    
+}
+
+}
+
+@media (max-width:580px){
+    .logoframe .logo h1{
+      font-size: 1.2em;
+      }
+
+      .input{
+        height: 22px;
+        width: 300px;
+        padding: 8px;
+      
+    }
+    .navbar{
+        padding: 0 5px;
+        height: 60px;
+        width: 100%;
+    }
+    .hree-icon-frame i{
+        margin-left: 8px ;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .hree-icon-frame i:hover{
+        font-size: 19px;
+    }
+    
+}
+
+@media (max-width:480px){
+    .logoframe .logo h1{
+      font-size: 1em;
+      }
+
+      .input{
+        height: 20px;
+        width: 200px;
+        padding: 5px;
+      
+    }
+    .navbar{
+        padding: 0 5px;
+        height: 50px;
+        width: 100%;
+    }
+    .hree-icon-frame i{
+        margin-left: 8px ;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .hree-icon-frame i:hover{
+        font-size: 16px;
+    }
+    
+}
+
+
+@media(max-width:740px){
+    /* main*/
+    .start-main .left h1{
+        font-size: 2.5em;
+        font-weight: 500;
+     
+    }
+    #our-foods{
+       
+        margin-top: 25px;
+      
+     
+        font-size: 2EM;
+        font-weight: 600;
+    }
+    
+    #our-foods span{
+        margin-left: 12px;
+        color: rgb(255,100,0) ;
+    }
+    .start-main .left p{
+        width: 250px;
+        font-size: 1em;
+        font-weight: 400;
+        line-height: 1.5;
+        opacity:0.8;
+        margin-top: 13px;
+    }
+    .start-main .right img{
+        width: 60%;
+        margin: 0 30px;
+    
+       
+    }
+    .start-main .left button{
+        padding: 8px 12px;
+        font-size: 1.2em;
+        font-weight: 600;
+        ;
+    }
+    
+    .start-main {
+       
+        padding: 40px 50px;
+    }
+    
+    }
+
+    @media(max-width:580px){
+        /* main*/
+
+        .start-main {
+            background-color: black;
+            color: white;
+            display: flex;
+            flex-direction: column-reverse;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 30px;
+        }
+        
+        .start-main .left h1{
+            font-size: 2em;
+            font-weight: 500;
+            margin-top: 20px;
+         
+        }
+        #our-foods{
+           
+            margin-top: 25px;
+          
+         
+            font-size: 1.5EM;
+            font-weight: 600;
+        }
+        
+        #our-foods span{
+            margin-left: 12px;
+            color: rgb(255,100,0) ;
+        }
+        .start-main .left p{
+            width: 250px;
+            font-size: 1em;
+            font-weight: 400;
+            line-height: 1.5;
+            opacity:0.8;
+            margin-top: 13px;
+        }
+        .start-main .right img{
+            width: 40%;
+            margin: 0 30px;
+        
+           
+        }
+        .start-main .left button{
+            padding: 5px 10px;
+            font-size: 1em;
+            font-weight: 500;
+            ;
+        }
+        
+        .start-main {
+           
+            padding: 40px 50px;
+        }
+        
+        }
+
+        /*cards*/
+        @media(max-width:1000px){
+            .h2{
+                font-size: 1em;
+            }
+        }
+
+        @media(max-width:885px){
+          
+             .cardup{
+                margin:80px;
+               }
+
+             .cardup .up{
+                margin-inline: 21px;
+                
+             }
+             
+            
+             .up h2{
+                 margin-top:10px;
+                 font-size: 1.2em;
+                 font-weight: 600;
+             }
+             
+             .up p{
+                 margin-top:10px;
+                 font-size: 1em;
+                 font-weight: 600;
+                 opacity: 0.7;
+             }
+             
+             .up-button{
+                 margin-top: 15px;
+                 padding: 7px 12px;
+                 border: none ;
+                 font-size: 0.9em;
+                 font-weight: 600;
+                
+             }
+            
+        }
+    
+
+        @media(max-width:700px){
+          
+            .cardup{
+               margin:70px;
+              }
+
+            .cardup .up{
+               margin-inline: 15px;
+               padding: 5px;
+            }
+            
+           
+            .up h2{
+                margin-top:10px;
+                font-size: 1em;
+                font-weight: 600;
+            }
+            
+            .up p{
+                margin-top:10px;
+                font-size: 0.7em;
+                font-weight: 600;
+                opacity: 0.7;
+            }
+            
+            .up-button{
+                margin-top: 15px;
+                padding: 5px 10px;
+                border: none;
+                font-size: 0.9em;
+                font-weight: 600;
+               
+            }
+           
+       }
+       
+       @media(max-width:560px){
+        .up-button{
+            margin-top: 15px;
+            padding: 3px 8px;
+            border: none;
+            font-size: 0.7em;
+            font-weight: 500;
+           
+        }
+        
+        .cardup .up{
+            margin-inline: 10px;
+            padding: 1px;
+         }
+         
+       }
+   
+       @media(max-width:500px){
+
+        .cardup{
+     display: flex;
+     justify-content: center;
+      flex-direction: column;
+      margin:100px;
+    color: white;
+    
+    
+}
+.cardup .up{
+    width: 200px;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 8px;
+    color: black;
+     margin-top: 25px
+   ;
+}
+
+.up img{
+    width:100%;
+}
+.up h2{
+    margin-top:10px;
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+.up p{
+    margin-top:10px;
+    font-size: 1.3em;
+    font-weight: 600;
+    opacity: 0.9;
+}
+
+.up-button{
+    margin-top: 15px;
+    padding: 9px 15px;
+    border: none ;
+    font-size: 1em;
+    font-weight: 600;
+    color: white;
+    background-color:rgba(255, 102, 0, 0.811);
+    margin-bottom: 10px;
+}
+.up-button:hover{
+    background-color: rgb(255, 60, 0);
+}
+      
+        .cardup{
+            margin:50px;
+           }
+
+         .cardup .up{
+            margin-inline: 15px;
+            padding: 1px;
+         }
+         
+        
+         .up h2{
+             margin-top:10px;
+             font-size: 0.7em;
+             font-weight: 600;
+         }
+         
+         .up p{
+             margin-top:10px;
+             font-size: 0.7em;
+             font-weight: 600;
+             opacity: 0.7;
+         }
+         
+         .up-button{
+             margin-top: 15px;
+             padding: 5px 10px;
+             border: none;
+             font-size: 0.9em;
+             font-weight: 600;
+            
+         }
+        
+       }
+
+       /*review*/
+
+     @media(max-width:900px){
+        .review{
+            position: relative;
+            display: flex;
+            height: 250px;
+            width: 600px;
+            background-color: white;
+            color: black;
+            margin: auto;
+            margin-top: 15px;    overflow: hidden;
+        }
+        .review .customer {
+            position: absolute;
+            text-align: center;
+            align-items: center;
+            width: 100%;
+            height: 60%;
+            padding: 20px;
+        }
+        .customer img{
+            width: 33%;
+            border-radius: 50%;
+        }
+        .review .customer i{
+            padding-top: 12px;
+            color:rgba(255, 102, 0, 0.811) ;
+        }
+        .review .customer p{
+            padding-top: 12px;
+            font-size: 1em;
+            font-weight: 500;
+        }
+        .btn{
+            text-align: center;
+          margin: 50px 0 20px 0;
+        
+        }
+        .btn button{
+            width: 120px;
+            height: 34px;
+            border: none;
+            outline: none;
+            border: 3px;
+            color: white;
+            font-size: 18px;
+            margin-inline: 11px;
+            background-color: rgb(255, 111, 0);
+            
+        }
+     }
+
+
+     
+     @media(max-width:650px){
+        .review{
+            position: relative;
+            display: flex;
+            height: 200px;
+            width: 450px;
+            background-color: white;
+            color: black;
+            margin: auto;
+            margin-top: 15px;    overflow: hidden;
+        }
+        .review .customer {
+            position: absolute;
+            text-align: center;
+            align-items: center;
+            width: 100%;
+            height: 60%;
+            padding: 20px;
+        }
+        .customer img{
+            width: 33%;
+            border-radius: 50%;
+        }
+        .review .customer i{
+            padding-top: 12px;
+            color:rgba(255, 102, 0, 0.811) ;
+        }
+        .review .customer p{
+            padding-top: 12px;
+            font-size: 1em;
+            font-weight: 500;
+        }
+        .btn{
+            text-align: center;
+          margin: 50px 0 20px 0;
+        
+        }
+        .btn button{
+            width: 100px;
+            height: 30px;
+            border: none;
+            outline: none;
+            border: 3px;
+            color: white;
+            font-size: 15px;
+            margin-inline: 11px;
+            background-color: rgb(255, 111, 0);
+            
+        }
+
+        .footer{
+            padding: 40px;
+              background-color: #fff;
+              color: black;
+              display: flex;
+              justify-content: space-evenly;
+              margin-top:67px;
+          }
+          .one h2{
+              color: black;
+              opacity: 0.8;
+              font-size: 1em;
+              font-weight: 600 ;
+          
+           
+          }
+          .one a{
+              display: flex;
+              flex-direction: column;
+              padding: 4px 0;
+              color: black;
+              font-size: 0.8em;
+              font-weight: 500;
+              opacity: 0.9;
+              
+     }
+
+    }
+
+
+    @media(max-width:500px){
+        .review{
+            position: relative;
+            display: flex;
+            height: 150px;
+            width: 300px;
+            background-color: white;
+            color: black;
+            margin: auto;
+            margin-top: 15px;    overflow: hidden;
+        }
+        .review .customer {
+            position: absolute;
+            text-align: center;
+            align-items: center;
+            width: 100%;
+            height: 40%;
+            padding: 20px;
+        }
+        .customer img{
+            width: 30%;
+            border-radius: 50%;
+        }
+        .review .customer i{
+            padding-top: 12px;
+            color:rgba(255, 102, 0, 0.811) ;
+        }
+        .review .customer p{
+            padding-top: 12px;
+            font-size: 0.8em;
+            font-weight: 500;
+        }
+        .btn{
+            text-align: center;
+          margin: 30px 0 20px 0;
+        
+        }
+        .btn button{
+            width: 80px;
+            height: 20px;
+            border: none;
+            outline: none;
+            border: 3px;
+            color: white;
+            font-size: 15px;
+            margin-inline: 11px;
+            background-color: rgb(255, 111, 0);
+            
+        }
+
+        .footer{
+            padding: 40px;
+              background-color: #fff;
+              color: black;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              
+              margin-top:67px;
+              
+          }
+          .one h2{
+              color: black;
+              opacity: 0.8;
+              font-size: 1em;
+              font-weight: 600 ;
+              padding-top: 50px;
+          
+           
+          }
+          .one a{
+              display: flex;
+              flex-direction: column;
+              padding: 4px 0;
+              color: black;
+              font-size: 0.8em;
+              font-weight: 500;
+              opacity: 0.9;
+          
+              
+     }
+
+    }
+
